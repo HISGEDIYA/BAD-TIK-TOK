@@ -6,7 +6,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Single-Developers/TikTok-DL-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/HISGEDIYA/BAD-TIK-TOK"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 🚧 Telegram : [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
 
